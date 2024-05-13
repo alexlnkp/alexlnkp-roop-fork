@@ -1,3 +1,7 @@
+# ATTENTION
+This fork has been abandoned in favor of FaceFusion, the successor of ROOP, made by the original author. FaceFusion uses Gradio for UI, which makes this fork obsolete and redundant.
+[Please use FaceFusion instead.](https://github.com/facefusion/facefusion.git)
+
 # Roop
 
 > Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
